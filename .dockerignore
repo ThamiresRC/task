@@ -1,0 +1,11 @@
+﻿target
+.mvn
+.mvnw
+.mvnw.cmd
+.git
+.gitignore
+Dockerfile
+data/
+**/*.iml
+**/.idea/
+**/.DS_Store
